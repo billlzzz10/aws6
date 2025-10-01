@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { LoreEntry, Project, CharacterRole, CharacterRelationship, RelationshipType, AppTheme } from './types'; 
 import { COMMON_RELATIONSHIP_TYPES } from './constants'; 
